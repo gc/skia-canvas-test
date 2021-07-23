@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-canvas": "^2.7.0",
+    "skia-canvas": "^0.9.23"
+  }
+}
